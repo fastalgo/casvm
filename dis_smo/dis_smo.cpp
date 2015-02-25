@@ -506,9 +506,9 @@ void printHelp() {
   	printf("Parameters:\n");
   	printf("\t-c, --cost\tSVM training cost C (default = 1)\n");
   	printf("\t-g\tGamma for Gaussian kernel (default = 1/nDimension)\n");
-  	printf("\t-a\tParameter a for Polynomial and Sigmoid kernels (default = 1/l)\n");
-  	printf("\t-r\tParameter r for Polynomial and Sigmoid kernels (default = 1)\n");
-  	printf("\t-d\tParameter d for Polynomial kernel (default = 3)\n");
+  	//printf("\t-a\tParameter a for Polynomial and Sigmoid kernels (default = 1/l)\n");
+  	//printf("\t-r\tParameter r for Polynomial and Sigmoid kernels (default = 1)\n");
+  	//printf("\t-d\tParameter d for Polynomial kernel (default = 3)\n");
   	printf("Convergence parameters:\n");
   	printf("\t--tolerance, -t\tTermination criterion tolerance (default = 0.001)\n");
   	printf("\t--epsilon, -e\tSupport vector threshold (default = 1e-5)\n");

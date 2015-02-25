@@ -1,4 +1,4 @@
-rm dissmo
+rm cascade
 rm *.mdl
 rm alpha_out
 rm sv_file

@@ -3,7 +3,8 @@ to use CA-SVM as a baseline, please modify our code or rewrite the code.
 For example, we commented the openmp and simd lines in our code, you may
 need to uncomment these lines.
 
-If you want to use our source code, please cite the following paper:
+If you want to use our source code, please cite the following paper (one 
+of the 4 Best papers of IPDPS 2015, which received 496 submissions):
 
 Yang You, James Demmel, Kent Czechowski, Le Song, Rich Vuduc, CA-SVM: 
 Communication-Avoiding Support Vector Machines on Distributed Systems, 
